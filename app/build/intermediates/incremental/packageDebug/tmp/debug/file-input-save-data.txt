@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 24 14:46:49 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\@DilipWorkspace\\InternetConnection\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

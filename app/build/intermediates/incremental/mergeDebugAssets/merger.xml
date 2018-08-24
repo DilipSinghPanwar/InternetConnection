@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":internetdetection"><source path="D:\@DilipWorkspace\InternetConnection\internetdetection\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="D:\@DilipWorkspace\InternetConnection\app\src\main\assets"/><source path="D:\@DilipWorkspace\InternetConnection\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\@DilipWorkspace\InternetConnection\app\src\debug\assets"/></dataSet></merger>

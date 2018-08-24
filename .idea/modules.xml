@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InternetConnection.iml" filepath="$PROJECT_DIR$/InternetConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internetdetection/internetdetection.iml" filepath="$PROJECT_DIR$/internetdetection/internetdetection.iml" />
     </modules>
   </component>
 </project>

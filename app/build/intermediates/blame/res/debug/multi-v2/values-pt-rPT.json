@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\VotiveAppsWorkspace\\InternetConnection\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "outputFile": "D:\\@DilipWorkspace\\InternetConnection\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\70c336419759ca535f5bad0629b5f2c8\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\11b87d76aee8bd940277049ef9879162\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\0517a155cb27a439a2717e6e70d2598c\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\de403aac17d5b891cfd3bef24dfa65c2\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
