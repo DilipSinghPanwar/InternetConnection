@@ -4,7 +4,7 @@
             "outputFile": "D:\\@DilipWorkspace\\InternetConnection\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\11b87d76aee8bd940277049ef9879162\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\3f2426bd41247d93ab0e86b264b0452d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\de403aac17d5b891cfd3bef24dfa65c2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\20b61783145b5b25c3bf92a34d09b6de\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
