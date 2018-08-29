@@ -1,15 +1,16 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: 'maven'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'key0'
-            keyPassword '111111'
-            storeFile file('D:/@DilipWorkspace/testing.jks')
-            storePassword '111111'
-        }
-    }
+//    signingConfigs {
+//        config {
+//            keyAlias 'key0'
+//            keyPassword '111111'
+//            storeFile file('D:/@DilipWorkspace/testing.jks')
+//            storePassword '111111'
+//        }
+//    }
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.internetconnection"
@@ -18,7 +19,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        signingConfig signingConfigs.config
+//        signingConfig signingConfigs.config
     }
     buildTypes {
         release {
@@ -28,7 +29,7 @@ android {
             useProguard true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             debuggable false
-            signingConfig signingConfigs.config
+//            signingConfig signingConfigs.config
         }
     }
     productFlavors {
